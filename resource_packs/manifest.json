@@ -1,1 +1,17 @@
-p
+{
+    "format_version": 2,
+    "header": {
+        "name": "JSON UI Example #2",
+        "description": "JSON UI Example",
+        "uuid": "3d67c42e-2de7-4e75-9f4e-c1a400e5d107",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "529d3fa5-015c-4a0d-b83f-b0f40c9768a0",
+            "version": [1, 0, 0]
+        }
+    ]
+}
